@@ -8,6 +8,14 @@
       "highscore": 0
     }
   ],
+  "words": [
+    {
+      "id": 1,
+      "word": "Two",
+      "translation": "Dois",
+      "categories": "Numbers"
+    }
+  ],
   "categories": [
     {
       "id": 1,
