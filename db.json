@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Danilo Filito",
+      "email": "danilo.filito@gmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://banner2.cleanpng.com/20180723/fgt/kisspng-international-day-of-families-family-day-clip-art-international-day-of-families-5b560497a66171.7240627915323639276815.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://banner2.cleanpng.com/20180326/xae/kisspng-numbers-game-mathematics-numbers-game-prime-number-numbers-5ab8b109e77d78.5221715215220533859482.jpg"
+    },
+    {
+      "name": "Colors 2",
+      "image": "https://banner2.cleanpng.com/20180723/fgt/kisspng-international-day-of-families-family-day-clip-art-international-day-of-families-5b560497a66171.7240627915323639276815.jpg",
+      "id": 3
+    }
+  ]
+}
